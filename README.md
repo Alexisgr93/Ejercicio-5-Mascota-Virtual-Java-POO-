@@ -1,4 +1,4 @@
-# Ejercicio-6-Mascota-Virtual-Java-POO-
+# Ejercicio-5-Mascota-Virtual-Java-POO-
 Ejercicio Nº6 Mascota Virtual (Java POO)
 
 1.
